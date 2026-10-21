@@ -1,30 +1,24 @@
-<!-- BANNER HEADER ATAS -->
+<!-- HEADER BANNER GELOMBANG STYLE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,30&height=220&section=header&text=Welcome%20to%20Ressza's%20World!&fontSize=38&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,30&height=200&section=header&text=Hi%20there,%20I'm%20Ressza!&fontSize=36&animation=fadeIn&fontColor=ffffff" width="100%" />
 </div>
 
 <br />
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION CONCEPT -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=🚀+Software+Developer;💻+Tech+Explorer;🔥+Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=💻+Software+Developer;🚀+Tech+Explorer;🔥+Passionate+Learner" alt="Typing SVG" />
   </a>
 </div>
 
 <br />
 
-<!-- SOCIAL MEDIA BADGES -->
+<!-- QUICK INFO / ABOUT ME BADGES -->
 <div align="center">
-  <a href="https://github.com/Ressza-stack">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Focus-Fullstack--Development-purple?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Location-Indonesia-blue?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-success?style=for-the-badge" />
 </div>
 
 <br />
@@ -35,52 +29,39 @@
 ## 💫 About Me
 
 <p align="left">
-👋 Halo! Saya <b>Ressza</b>, seorang pengembang yang berfokus pada teknologi web modern, eksperimen software, dan eksplorasi dunia pemrograman.
+👋 Halo! Saya <b>Ressza</b>, seorang pengembang software yang berfokus pada pembangunan aplikasi web interaktif, bersih, dan berkinerja tinggi.
 </p>
 
-* 🔭 **Saat ini sedang fokus:** Membangun aplikasi & proyek interaktif.
-* 🌱 **Sedang mempelajari:** Web Development modern & optimasi sistem.
-* ⚡ **Fun Fact:** Selalu mencari cara agar profil & antarmuka terlihat estetik!
+- 🔭 **Saat ini sedang fokus:** Pengolahan sistem & eksperimen proyek web modern.
+- 🌱 **Sedang mempelajari:** Web Architecture & Software Optimization.
+- 💬 **Tanya saya tentang:** HTML, CSS, JavaScript, Python, atau ide proyek baru.
 
 ---
 
-<!-- TECH STACK & LANGUAGES (DIPERLUAS & DITAMBAHKAN) -->
-## 💻 Languages & Tech Stack
+<!-- TECH STACK & LANGUAGES (GRID STYLE) -->
+## 💻 Tech Stack & Tools
 
 ### ⚡ Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🌐 Frameworks, Libraries & Databases
+### 🛠️ Frameworks, Tools & Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### 🛠️ Tools, Editors & Platforms
-<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
 ---
 
-<!-- KARTU STATISTIK GITHUB -->
+<!-- GITHUB STATS CARDS (URL PROXY HANDLER - BEBAS ERROR) -->
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -90,20 +71,16 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ressza-stack&theme=tokyonight&hide_border=true" width="97%" />
-</div>
-
 ---
 
-<!-- ANIMASI SNAKE -->
+<!-- ANIMASI SNAKE KONTRIBUSI (URL BRANCH OUTPUT FIX) -->
 ## 🐍 Contribution Snake Game
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ressza-stack/Ressza-stack/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ressza-stack/Ressza-stack/output/github-contribution-grid-snake.svg">
-    <img alt="github me snake" src="https://raw.githubusercontent.com/Ressza-stack/Ressza-stack/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ressza-stack/Ressza-stack/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ressza-stack/Ressza-stack/output/github-snake.svg">
+    <img alt="github snake animation" src="https://raw.githubusercontent.com/Ressza-stack/Ressza-stack/output/github-snake.svg">
   </picture>
 </div>
 
