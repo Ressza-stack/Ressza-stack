@@ -45,7 +45,6 @@ I'm a student developer interested in creating web applications and mobile exper
 
 ## GitHub Statistics
 
-html
 <div align="center">
 
   <img
