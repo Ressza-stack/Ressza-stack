@@ -2,11 +2,9 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:30363D&height=180&section=header&text=RESSZA-STACK&fontSize=38&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Software%20Developer%20%7C%20Building%20and%20Learning&descAlignY=60&descSize=13" alt="Animated header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:090D12,30:111923,65:152B3A,100:090D12&text=RESSZA-STACK&fontSize=48&fontColor=F0F6FC&fontAlignY=43&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%2F%20WEB%20%2F%20MOBILE&descSize=13&descColor=58C4DD&descAlignY=62&stroke=233746&strokeWidth=1" alt="Ressza Stack Premium Banner"/>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Student+Developer;Web+%26+Mobile+Application+Development;Exploring+React+Native+and+Laravel;Always+Learning+Something+New" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=2800&pause=1000&color=8BABB9&center=true&vCenter=true&width=520&lines=Building+digital+experiences.;Learning+one+line+at+a+time.;Turning+ideas+into+working+software." alt="Animated developer tagline"/>
 
 </div>
 
