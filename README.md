@@ -45,15 +45,28 @@ I'm a student developer interested in creating web applications and mobile exper
 
 ## GitHub Statistics
 
+html
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ressza-stack&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub statistics"/>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Ressza-stack&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+    alt="GitHub statistics"
+  />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ressza-stack&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ressza-stack&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+    alt="Most used languages"
+  />
 
-<br><br>
+  <br><br>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ressza-stack&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution activity graph"/>
+  <img
+    width="90%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ressza-stack"
+    alt="Contribution Activity Graph"
+  />
 
 </div>
 
