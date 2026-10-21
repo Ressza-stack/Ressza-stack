@@ -61,12 +61,6 @@ I'm a student developer interested in creating web applications and mobile exper
 
   <br><br>
 
-  <img
-    width="90%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ressza-stack"
-    alt="Contribution Activity Graph"
-  />
-
 </div>
 
 ---
