@@ -83,10 +83,12 @@ Explore my repositories to see my projects and development progress.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363D,100:0D1117&height=100&section=footer" width="100%" alt="Animated footer"/>
 
-<img
-  src="https://komarev.com/ghpvc/?username=Ressza-stack&style=flat-square&color=58A6FF"
-  alt="Profile views"
-/>
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Profile%20Views-Visit%20Counter-58A6FF?style=flat-square&logo=github"
+    alt="Profile Views"
+  />
+</p>
 
 <br><br>
 
