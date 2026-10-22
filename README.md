@@ -83,7 +83,10 @@ Explore my repositories to see my projects and development progress.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363D,100:0D1117&height=100&section=footer" width="100%" alt="Animated footer"/>
 
-<img src="https://komarev.com/ghpvc/?username=Ressza-stack&style=flat-square&color=30363D&label=PROFILE+VIEWS" alt="Profile views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=Ressza-stack&style=flat-square&color=58A6FF"
+  alt="Profile views"
+/>
 
 <br><br>
 
